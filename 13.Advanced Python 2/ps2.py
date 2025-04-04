@@ -1,0 +1,5 @@
+a = input("Enter your name : ")
+b = int(input("Enter your marks : "))
+c = int(input("Enter your phone number : "))
+output = "The name of the student is {},his marks are {} and his phone number is {}".format(a,b,c)
+print(output)

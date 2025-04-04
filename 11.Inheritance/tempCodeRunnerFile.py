@@ -1,0 +1,1 @@
+print(a.company,b.company)
